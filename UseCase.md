@@ -282,6 +282,30 @@ Submit the following items:
 * A demonstration of the complete sample user journey
 * A short note describing one successful result and one error case
 
+## Record and submit your solution
+
+Record a short screen demonstration after completing the lab. Keep the recording between
+5 and 10 minutes and include:
+
+1. A brief overview of the application and Azure services used.
+2. The four test files being loaded from the `data/` directory.
+3. The Language and Content Understanding results.
+4. The generated five-day itinerary.
+5. One handled error or validation message.
+
+Do not show API keys, access tokens, service credentials, or the complete passport
+number in the recording.
+
+Save the recording as an MP4 file using this naming format:
+
+```text
+TeamName-TravelAssistant-Demo.mp4
+```
+
+Upload the recording and requested project files to the Drive link provided by the lab
+facilitator. Confirm that the upload is complete and that the facilitator can access the
+files before the submission deadline. Do not upload the recording to a public folder.
+
 ## Acceptance criteria
 
 The lab is complete when:
